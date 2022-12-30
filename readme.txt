@@ -1,4 +1,4 @@
-=== Listo ===
+=== Listo ======
 Contributors: takayukister, yordansoares
 Donate link: https://contactform7.com/donate/
 Tags: list, countries, subdivisions, states, currencies
